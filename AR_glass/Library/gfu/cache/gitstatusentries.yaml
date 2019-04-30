@@ -1,0 +1,300 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 5
+  lastUpdatedAtString: 2019-04-29T21:31:27.928-05:00
+  initializedAtString: 2019-04-29T21:31:26.694-05:00
+  entries:
+  - path: AR_glass\AR_glass.sln
+    fullPath: D:\Ubuntu\Personal\AR-Glasses\AR_glass\AR_glass.sln
+    projectPath: AR_glass.sln
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: AR_glass\Assembly-CSharp.csproj
+    fullPath: D:\Ubuntu\Personal\AR-Glasses\AR_glass\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: AR_glass\Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: D:\Ubuntu\Personal\AR-Glasses\AR_glass\Assembly-CSharp-Editor-firstpass.csproj
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: AR_glass\Library\APIUpdater\project-dependencies.graph
+    fullPath: D:\Ubuntu\Personal\AR-Glasses\AR_glass\Library\APIUpdater\project-dependencies.graph
+    projectPath: Library\APIUpdater\project-dependencies.graph
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: AR_glass\Library\assetDatabase3
+    fullPath: D:\Ubuntu\Personal\AR-Glasses\AR_glass\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: AR_glass\Library\CurrentLayout.dwlt
+    fullPath: D:\Ubuntu\Personal\AR-Glasses\AR_glass\Library\CurrentLayout.dwlt
+    projectPath: Library\CurrentLayout.dwlt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: AR_glass\Library\EditorInstance.json
+    fullPath: D:\Ubuntu\Personal\AR-Glasses\AR_glass\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: AR_glass\Library\expandedItems
+    fullPath: D:\Ubuntu\Personal\AR-Glasses\AR_glass\Library\expandedItems
+    projectPath: Library\expandedItems
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: AR_glass\Library\gfu\cache\branches.yaml
+    fullPath: D:\Ubuntu\Personal\AR-Glasses\AR_glass\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: AR_glass\Library\gfu\cache\gitlocks.yaml
+    fullPath: D:\Ubuntu\Personal\AR-Glasses\AR_glass\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: AR_glass\Library\gfu\cache\gitlog.yaml
+    fullPath: D:\Ubuntu\Personal\AR-Glasses\AR_glass\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: AR_glass\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: D:\Ubuntu\Personal\AR-Glasses\AR_glass\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: AR_glass\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: D:\Ubuntu\Personal\AR-Glasses\AR_glass\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: AR_glass\Library\gfu\cache\repoinfo.yaml
+    fullPath: D:\Ubuntu\Personal\AR-Glasses\AR_glass\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: AR_glass\Library\PackageCache\.del-14525hQz7VXr1QUN\Plugins\x86_64\AudioPluginOculusSpatializer.dll
+    fullPath: D:\Ubuntu\Personal\AR-Glasses\AR_glass\Library\PackageCache\.del-14525hQz7VXr1QUN\Plugins\x86_64\AudioPluginOculusSpatializer.dll
+    projectPath: Library\PackageCache\.del-14525hQz7VXr1QUN\Plugins\x86_64\AudioPluginOculusSpatializer.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: AR_glass\Library\PackageCache\.del-14525hQz7VXr1QUN\Plugins\x86_64\OVRPlugin.dll
+    fullPath: D:\Ubuntu\Personal\AR-Glasses\AR_glass\Library\PackageCache\.del-14525hQz7VXr1QUN\Plugins\x86_64\OVRPlugin.dll
+    projectPath: Library\PackageCache\.del-14525hQz7VXr1QUN\Plugins\x86_64\OVRPlugin.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: AR_glass\Library\SceneVisibilityState.asset
+    fullPath: D:\Ubuntu\Personal\AR-Glasses\AR_glass\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: AR_glass\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    fullPath: D:\Ubuntu\Personal\AR-Glasses\AR_glass\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: AR_glass\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
+    fullPath: D:\Ubuntu\Personal\AR-Glasses\AR_glass\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: AR_glass\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: D:\Ubuntu\Personal\AR-Glasses\AR_glass\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: AR_glass\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    fullPath: D:\Ubuntu\Personal\AR-Glasses\AR_glass\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: AR_glass\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+    fullPath: D:\Ubuntu\Personal\AR-Glasses\AR_glass\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: AR_glass\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: D:\Ubuntu\Personal\AR-Glasses\AR_glass\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: AR_glass\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: D:\Ubuntu\Personal\AR-Glasses\AR_glass\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: AR_glass\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    fullPath: D:\Ubuntu\Personal\AR-Glasses\AR_glass\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: AR_glass\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    fullPath: D:\Ubuntu\Personal\AR-Glasses\AR_glass\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: AR_glass\Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: D:\Ubuntu\Personal\AR-Glasses\AR_glass\Library\ScriptAssemblies\Unity.Timeline.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: AR_glass\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: D:\Ubuntu\Personal\AR-Glasses\AR_glass\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: AR_glass\Library\ScriptAssemblies\VuforiaEditorScripts.dll
+    fullPath: D:\Ubuntu\Personal\AR-Glasses\AR_glass\Library\ScriptAssemblies\VuforiaEditorScripts.dll
+    projectPath: Library\ScriptAssemblies\VuforiaEditorScripts.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: AR_glass\Library\ScriptAssemblies\VuforiaEditorScripts.pdb
+    fullPath: D:\Ubuntu\Personal\AR-Glasses\AR_glass\Library\ScriptAssemblies\VuforiaEditorScripts.pdb
+    projectPath: Library\ScriptAssemblies\VuforiaEditorScripts.pdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: AR_glass\Library\ScriptAssemblies\VuforiaScripts.dll
+    fullPath: D:\Ubuntu\Personal\AR-Glasses\AR_glass\Library\ScriptAssemblies\VuforiaScripts.dll
+    projectPath: Library\ScriptAssemblies\VuforiaScripts.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: AR_glass\Library\ScriptAssemblies\VuforiaScripts.pdb
+    fullPath: D:\Ubuntu\Personal\AR-Glasses\AR_glass\Library\ScriptAssemblies\VuforiaScripts.pdb
+    projectPath: Library\ScriptAssemblies\VuforiaScripts.pdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: AR_glass\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: D:\Ubuntu\Personal\AR-Glasses\AR_glass\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: AR_glass\Library\StateCache\SceneView\faa635-mainStage.json
+    fullPath: D:\Ubuntu\Personal\AR-Glasses\AR_glass\Library\StateCache\SceneView\faa635-mainStage.json
+    projectPath: Library\StateCache\SceneView\faa635-mainStage.json
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: AR_glass\Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    fullPath: D:\Ubuntu\Personal\AR-Glasses\AR_glass\Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    projectPath: Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: AR_glass\Temp\UnityLockfile
+    fullPath: D:\Ubuntu\Personal\AR-Glasses\AR_glass\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: AR_glass\Temp\UnityTempFile-015aefd78bf7e5346bf5b92c040cb0ea
+    fullPath: D:\Ubuntu\Personal\AR-Glasses\AR_glass\Temp\UnityTempFile-015aefd78bf7e5346bf5b92c040cb0ea
+    projectPath: Temp\UnityTempFile-015aefd78bf7e5346bf5b92c040cb0ea
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: AR_glass\Temp\UnityTempFile-099c4c477ef33c5409eb3f6588e5cc87
+    fullPath: D:\Ubuntu\Personal\AR-Glasses\AR_glass\Temp\UnityTempFile-099c4c477ef33c5409eb3f6588e5cc87
+    projectPath: Temp\UnityTempFile-099c4c477ef33c5409eb3f6588e5cc87
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: AR_glass\Temp\UnityTempFile-0f9e942ae6e51be468f801d9b8e45639
+    fullPath: D:\Ubuntu\Personal\AR-Glasses\AR_glass\Temp\UnityTempFile-0f9e942ae6e51be468f801d9b8e45639
+    projectPath: Temp\UnityTempFile-0f9e942ae6e51be468f801d9b8e45639
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: AR_glass\Temp\UnityTempFile-353a2376267e6c046b8a44a8091838f4
+    fullPath: D:\Ubuntu\Personal\AR-Glasses\AR_glass\Temp\UnityTempFile-353a2376267e6c046b8a44a8091838f4
+    projectPath: Temp\UnityTempFile-353a2376267e6c046b8a44a8091838f4
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: AR_glass\Temp\UnityTempFile-4f0ef5201ced1f140b9419adcfa919bb
+    fullPath: D:\Ubuntu\Personal\AR-Glasses\AR_glass\Temp\UnityTempFile-4f0ef5201ced1f140b9419adcfa919bb
+    projectPath: Temp\UnityTempFile-4f0ef5201ced1f140b9419adcfa919bb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: AR_glass\Temp\UnityTempFile-7b2ecf0d16a125f42af034638f8d4900
+    fullPath: D:\Ubuntu\Personal\AR-Glasses\AR_glass\Temp\UnityTempFile-7b2ecf0d16a125f42af034638f8d4900
+    projectPath: Temp\UnityTempFile-7b2ecf0d16a125f42af034638f8d4900
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: AR_glass\Temp\UnityTempFile-af6a6c7965b98cb40bf20e665e55192d
+    fullPath: D:\Ubuntu\Personal\AR-Glasses\AR_glass\Temp\UnityTempFile-af6a6c7965b98cb40bf20e665e55192d
+    projectPath: Temp\UnityTempFile-af6a6c7965b98cb40bf20e665e55192d
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: AR_glass\Temp\UnityTempFile-b567a7ba7a6aeee4ca381186fdfdee87
+    fullPath: D:\Ubuntu\Personal\AR-Glasses\AR_glass\Temp\UnityTempFile-b567a7ba7a6aeee4ca381186fdfdee87
+    projectPath: Temp\UnityTempFile-b567a7ba7a6aeee4ca381186fdfdee87
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: AR_glass\Temp\UnityTempFile-f34d7a15d0b6fc747a6e3ab41a507919
+    fullPath: D:\Ubuntu\Personal\AR-Glasses\AR_glass\Temp\UnityTempFile-f34d7a15d0b6fc747a6e3ab41a507919
+    projectPath: Temp\UnityTempFile-f34d7a15d0b6fc747a6e3ab41a507919
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: AR_glass\VuforiaEditorScripts.csproj
+    fullPath: D:\Ubuntu\Personal\AR-Glasses\AR_glass\VuforiaEditorScripts.csproj
+    projectPath: VuforiaEditorScripts.csproj
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: AR_glass\VuforiaScripts.csproj
+    fullPath: D:\Ubuntu\Personal\AR-Glasses\AR_glass\VuforiaScripts.csproj
+    projectPath: VuforiaScripts.csproj
+    originalPath: 
+    status: 3
+    staged: 0
